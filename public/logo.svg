@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 592 421">
+  <defs>
+    <linearGradient id="myzoapp-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2de0a7"/>
+      <stop offset="100%" stop-color="#1cb5e0"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M0 210 Q 80 0 296 0 Q 512 0 592 210 Q 512 420 296 420 Q 80 420 0 210 Z" fill="url(#myzoapp-gradient)"/>
+    <rect x="180" y="80" width="230" height="260" rx="40" fill="none" stroke="#111" stroke-width="16"/>
+    <rect x="210" y="110" width="170" height="200" rx="28" fill="none" stroke="#111" stroke-width="10"/>
+    <circle cx="325" cy="290" r="12" fill="#111"/>
+    <rect x="270" y="120" width="60" height="10" rx="5" fill="#111"/>
+  </g>
+</svg>
