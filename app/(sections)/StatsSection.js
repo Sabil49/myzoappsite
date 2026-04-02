@@ -4,8 +4,8 @@ export default function StatsSection() {
     <section className="bg-[var(--navy)] py-16">
       <div className="wrap">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
-          <StatCell value="3+" label="Apps Shipped" />
-          <StatCell value="50+" label="Happy Clients" />
+          <StatCell value="10+" label="Apps Shipped" />
+          <StatCell value="8+" label="Happy Clients" />
           <StatCell value="4.9/5" label="Client Rating" />
         </div>
       </div>
