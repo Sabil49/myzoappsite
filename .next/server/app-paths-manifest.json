@@ -1,4 +1,5 @@
 {
   "/page": "app/page.js",
-  "/privacy/page": "app/privacy/page.js"
+  "/privacy/page": "app/privacy/page.js",
+  "/substracker/privacy-policy/page": "app/substracker/privacy-policy/page.js"
 }

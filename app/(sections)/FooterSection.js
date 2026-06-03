@@ -39,7 +39,7 @@ export default function FooterSection() {
         <div>
           <div className="font-bold mb-2">Legal</div>
           <ul className="space-y-1 text-[#7bb7b7] text-sm">
-            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="/privacy">Privacy Policy</a></li>
             <li><a href="#">Terms of Service</a></li>
             <li><a href="#">Refund Policy</a></li>
             <li><a href="#">NDA Template</a></li>
