@@ -139,7 +139,7 @@ export default function HeroSection() {
                     <div className="w-[38px] h-[7px] bg-gray-600 rounded-[4px]"></div>
                     <div className="w-[11px] h-[11px] rounded-full bg-[radial-gradient(circle_at_38%_38%,#222,#000)] border-[1.5px] border-gray-600"></div>
                   </div> */}
-                  <img src="/ss1.jpg" alt="App Screenshot 1" className="absolute w-full h-[424px] object-contain z-10" />
+                  <img src="/ss1.png" alt="MyzoPurse app screenshot" className="absolute w-full h-[424px] object-contain z-10" />
                   {/* <div className="absolute inset-0 flex flex-col overflow-hidden">
                     <div className="w-full h-full bg-[linear-gradient(158deg,#0b1629_0%,#060d1c_100%)] p-[48px_17px_16px] flex flex-col gap-[11px]">
                       <div className="flex justify-between items-center flex-shrink-0">
@@ -248,7 +248,7 @@ export default function HeroSection() {
                     <div className="w-[38px] h-[7px] bg-gray-600 rounded-[4px]"></div>
                     <div className="w-[11px] h-[11px] rounded-full bg-[radial-gradient(circle_at_38%_38%,#222,#000)] border-[1.5px] border-gray-600"></div>
                   </div> */}
-                  <img src="/ss2.jpg" alt="App Screenshot 2" className="absolute w-full h-[424px] object-contain z-10" />                  {/* <div className="absolute inset-0 flex flex-col overflow-hidden">
+                  <img src="/ss2.png" alt="Substracker app screenshot" className="absolute w-full h-[424px] object-contain z-10" />                  {/* <div className="absolute inset-0 flex flex-col overflow-hidden">
                     <div className="w-full h-full bg-[linear-gradient(158deg,#061c18_0%,#040e0b_100%)] p-[48px_17px_16px] flex flex-col gap-[10px]">
                       <div className="flex justify-between items-center flex-shrink-0">
                         <span className="text-[11px] font-semibold text-white/78 font-['DM_Sans']">9:41</span>
@@ -341,7 +341,7 @@ export default function HeroSection() {
                     <div className="w-[38px] h-[7px] bg-gray-600 rounded-[4px]"></div>
                     <div className="w-[11px] h-[11px] rounded-full bg-[radial-gradient(circle_at_38%_38%,#222,#000)] border-[1.5px] border-gray-600"></div>
                   </div> */}
-                  <img src="/ss3.jpg" alt="App Screenshot 3" className="absolute w-full h-[424px] object-contain z-10" />                  {/* <div className="absolute inset-0 flex flex-col overflow-hidden">
+                  <img src="/ss3.png" alt="Anil Sweets app screenshot" className="absolute w-full h-[424px] object-contain z-10" />                  {/* <div className="absolute inset-0 flex flex-col overflow-hidden">
                     <div className="w-full h-full bg-[linear-gradient(158deg,#180c2c_0%,#0d0618_100%)] p-[48px_17px_16px] flex flex-col gap-[10px]">
                       <div className="flex justify-between items-center flex-shrink-0">
                         <span className="text-[11px] font-semibold text-white/78 font-['DM_Sans']">9:41</span>
