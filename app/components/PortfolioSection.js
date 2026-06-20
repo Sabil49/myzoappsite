@@ -10,7 +10,7 @@ export default function PortfolioSection({ id }) {
       <div className="wrap">
         <div className="mb-12 text-center">
           <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-[var(--acc-mid)] bg-[var(--acc-pale)] px-4 py-2 text-xs font-bold text-[var(--acc-dark)]"><span className="h-1.5 w-1.5 rounded-full bg-[var(--acc)]" />PORTFOLIO</div>
-          <h2 className="mb-4 text-3xl font-extrabold text-white md:text-4xl">Apps built to feel <span className="text-[var(--acc)]">useful from day one</span></h2>
+          <h2 className="mb-4 text-3xl font-extrabold text-[var(--ink)] md:text-4xl">Apps built to feel <span className="text-[var(--acc)]">useful from day one</span></h2>
           <p className="mx-auto max-w-2xl text-lg text-[var(--muted)]">Three portfolio demos exploring finance, subscription management, and local commerce through focused mobile experiences.</p>
         </div>
         <div className="grid gap-8 md:grid-cols-3">
