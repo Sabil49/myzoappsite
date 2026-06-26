@@ -1,6 +1,6 @@
 const projects = [
   { name: "MyzoPurse", category: "Personal Finance", description: "A clear money management app for tracking balances, spending, and everyday financial activity.", tags: ["Wallet", "Analytics", "Mobile UI"], image: "/portfolio-myzopurse.png", url: "https://myzopurse.vercel.app/" },
-  { name: "Substracker", category: "Subscription Management", description: "A focused tracker for recurring payments, renewal reminders, and monthly subscription costs.", tags: ["Reminders", "Insights", "Billing"], image: "/portfolio-substracker.png", url: "https://substracker-premium.vercel.app/" },
+  { name: "Substracker", category: "Subscription Management", description: "A focused tracker for recurring payments, renewal reminders, and monthly subscription costs.", tags: ["Reminders", "Insights", "Billing"], image: "/portfolio-substracker.png", url: "https://substrackerpremium.vercel.app/" },
   { name: "Anil Sweets", category: "Food Ordering", description: "A warm ordering experience for discovering sweets, building a cart, and placing an order.", tags: ["Catalogue", "Cart", "Ordering"], image: "/portfolio-anil-sweets.png", url: "https://anilsweets.vercel.app/" },
 ];
 
